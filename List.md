@@ -19,9 +19,9 @@
   1. Installing Kafka (MacOS)
      1. Install Homebrew: https://docs.brew.sh/Installation
      2. Install Kafka:
-            ```console
-            $ brew install kafka
-            ```
+        ```console
+        $ brew install kafka
+        ```
   2. Make sure Kafka and Zookeeper start:
         ```console
         $ brew services list
