@@ -58,4 +58,5 @@
   - https://tech.zilverline.com/2017/04/07/elixir_event_sourcing
   
 ## Android
-  Timber: Library for logging
+  - Timber: Library for logging
+  - ![Lifecycle](https://video.udacity-data.com/topher/2018/November/5be286d0_l4-1803sc-a-share-dialog-and-onpause-onresume-border/l4-1803sc-a-share-dialog-and-onpause-onresume-border.png)
