@@ -60,3 +60,4 @@
 ## Android
   - Timber: Library for logging
   - ![Lifecycle](https://video.udacity-data.com/topher/2018/November/5be286d0_l4-1803sc-a-share-dialog-and-onpause-onresume-border/l4-1803sc-a-share-dialog-and-onpause-onresume-border.png)
+  - [Lifecycle Cheat sheets](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
