@@ -1,18 +1,20 @@
 # List I Don't Know
 
-## Trunk base development
+- [ ] Trunk base development
+- [ ] How kubernates works
+- [ ] Integration Test with CI/CD
+- [ ] GRPC
+- [ ] Protobuff
+- [ ] ReactJS
+- [x] Kafka
+- [ ] Kong
+- [x] GraphQL
+- [ ] Elixir Plug
+- [ ] Event Sourcing
+- [x] Android
 
-## How kubernates works
-
-## Integration Test with CI/CD
-
-## GRPC
-
-## Protobuff
-
-## ReactJS
-
-## Kafka
+## Notes:
+### Kafka
 - Kafka is short of message queue
 - Book: `Gwen Shapira. “Kafka: The Definitive Guide.”`
 - How to start:
@@ -48,17 +50,15 @@
         test
         ```
 
-## Kong
+### Kong
 https://github.com/ardinusawan/learn-kong-basic
 
-## GraphQL
-
-## Elixir Plug
-
-## Event Sourcing
+### Event Sourcing
   - https://tech.zilverline.com/2017/04/07/elixir_event_sourcing
   
-## Android
+### Android
   - Timber: Library for logging
   - ![Lifecycle](https://video.udacity-data.com/topher/2018/November/5be286d0_l4-1803sc-a-share-dialog-and-onpause-onresume-border/l4-1803sc-a-share-dialog-and-onpause-onresume-border.png)
   - [Lifecycle Cheat sheets](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)
+  
+  
